@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# This is a script that will download the dependencies and compile MakeMKV. Made this for the people on linux who don't wanna recompile a bunch of times if they use multiple machines.
+# Downloads and compiles MakeMKV
 #
 # Made for and tested on Debian 11.
 #
